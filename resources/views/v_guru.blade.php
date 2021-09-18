@@ -18,7 +18,6 @@
                 <th>Nama Guru</th>
                 <th>Mata Pelajaran</th>
                 <th>Foto Guru</th>
-                <th>Foto Guru 2</th>
                 <th>Action</th>
             </tr>
         </thead> 
